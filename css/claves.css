@@ -1,0 +1,13 @@
+.clave{
+      margin-top: 6px;
+      font-size: 25px;
+    }
+
+.cajasdeclaves{
+    margin-top: 70px;
+}
+.btn, .btn-large.btn-tamano{
+  width: 100%;
+  background-color: transparent;
+  color: black;
+}
